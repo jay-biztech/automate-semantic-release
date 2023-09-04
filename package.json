@@ -1,0 +1,26 @@
+{
+  "name": "automate-semantic-release",
+  "version": "0.0.0-development",
+  "description": "��#\u0000 \u0000a\u0000u\u0000t\u0000o\u0000m\u0000a\u0000t\u0000e\u0000-\u0000s\u0000e\u0000m\u0000a\u0000n\u0000t\u0000i\u0000c\u0000-\u0000r\u0000e\u0000l\u0000e\u0000a\u0000s\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "dependencies": {
+    "semantic-release": "^21.1.1"
+  },
+  "devDependencies": {
+    "semantic-release": "^21.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jay-biztech/automate-semantic-release.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jay-biztech/automate-semantic-release/issues"
+  },
+  "homepage": "https://github.com/jay-biztech/automate-semantic-release#readme"
+}
